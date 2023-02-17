@@ -431,48 +431,6 @@
         "nom": "Devilliers"
       },
       "update": "13/10/2022"
-    },
-    {
-      "id": 14,
-      "prenom": "Thibaut",
-      "nom": "Wojciak",
-      "entreprise": "Rolex",
-      "tel": "07 58 64 25 56",
-      "email": "ziyi.wang@gmail.com",
-      "author": {
-        "image": "https://github.com/mdo.png",
-        "prenom": "Thibaut",
-        "nom": "Wojciak"
-      },
-      "update": "18/10/2022"
-    },
-    {
-      "id": 15,
-      "prenom": "Francois",
-      "nom": "Spilmont",
-      "entreprise": "Rolex",
-      "tel": "07 58 64 25 56",
-      "email": "laurentwarren@gmail.com",
-      "author": {
-        "image": "https://github.com/mdo.png",
-        "prenom": "Francois",
-        "nom": "Spilmont"
-      },
-      "update": "21/10/2022"
-    },
-    {
-      "id": 16,
-      "prenom": "Paul",
-      "nom": "Devilliers",
-      "entreprise": "Rolex",
-      "tel": "07 58 64 25 56",
-      "email": "laurentwarren@gmail.com",
-      "author": {
-        "image": "https://github.com/mdo.png",
-        "prenom": "Paul",
-        "nom": "Devilliers"
-      },
-      "update": "17/10/2022"
     }
 
   ]
